@@ -1,0 +1,83 @@
+@font-face{font-family:'sofiapro';src:url('../../../fonts/sofiapromedium.woff');format('woff')}
+.course {
+	background: #f7f7f7;
+	min-height: 150px;
+	margin-top:30px !important;
+	border: 1px solid #CCCCCC;
+}
+.course:hover{
+	 box-shadow: 0 1px 3px #A4A4A4;
+	-moz-box-shadow: 0 1px 3px #A4A4A4;
+	-webkit-box-shadow: 0 1px 3px #A4A4A4;
+}
+.course-logo-div {
+	padding: 0px;
+	height:inherit;
+}
+.course-logo-div img {
+	height:150px;
+}
+.course-name {
+	color: #095b97;
+	font-size: 18px;
+	line-height: 1.5em;
+	letter-spacing: 1px;
+	font-weight: bolder;
+}
+.course-name-div {
+	padding-top: 20px;
+	min-height: inherit;
+	padding-left: 10px;
+}
+.course-right-div {
+	border-left: 1px solid #ccc;
+	height: 100%;
+	padding-top: 20px;
+	min-height: inherit;
+}
+.course-right-label {
+	font-size: 14px;
+	color: #555;
+	line-height: 24px;
+	font-family: "sofiapro",Arial,sans-serif;
+	cursor:text;
+}
+
+.course-right-button
+{
+	padding-left:2px;
+	padding-right:2px;
+	width:120px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.course-right-a
+{
+	font-size:12px;
+	color:#3b6e8f;
+	line-height:1.5em;
+}
+
+.course-progress
+{
+	height:10px !important;
+	padding:0px !important;
+	background-color:#a4a4a4;
+}
+
+.meter
+{
+	background-color:#30302f !important;
+}
+
+.course-instructor
+{
+	margin-bottom:5px;
+	margin-top:6px;
+	line-height: 24px;
+	font-family: "sofiapro",Arial,sans-serif;
+	cursor:text;
+
+	
+}

@@ -1,0 +1,26 @@
+﻿.quiz-table
+{
+	border:0px !important;
+}
+.quiz-table th {
+	font-weight: bold;
+}
+.quiz-table th ,td {
+	padding: 8px !important;
+	line-height: 21px !important;
+	text-align: left !important;
+	vertical-align: top !important;
+	border-top: 1px solid #ddd !important;
+}
+
+.quiz-table th
+{
+	width:160px;
+}
+
+.quiz-help-text
+{
+	font-size: 13px;
+	line-height: 18px;
+	color: #797979;
+}
